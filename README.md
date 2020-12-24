@@ -10,7 +10,7 @@
 - [Out-of-sync RPI rotation.](https://github.com/alwentiu/exposure_notification) Joint work with Zak Brighton-Knight.
 
 ## Bluetooth related vulnerabilities:
-- [A silent pairing pairing vulnerabilities affecting some Samsung devices.](samsung.pdf)
+- [CVE-2020-35693: A silent pairing pairing vulnerabilities affecting some Samsung devices.](samsung.pdf)
 
 
 ## Bluetooth tools
