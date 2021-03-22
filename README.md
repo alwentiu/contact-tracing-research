@@ -6,7 +6,7 @@
 - [CVE-2020-12856. A silent pairing issue affecting the Android version of COVIDSafe app v1.17 and earlier versions.](https://github.com/alwentiu/COVIDSafe-CVE-2020-12856) Joint work with Jim Mussared.
 
 ## Apple/Google Exposure Notifications Framework 
-- RPI linkage vulnerability in Google's implementation of EN.  Joint work with Zak Brighton-Knight and Jim Mussared. Details to be released.
+- [RPI linkage vulnerability in Google's implementation of EN.](GAEN.pdf)  Joint work with Zak Brighton-Knight and Jim Mussared. 
 - [Out-of-sync RPI rotation.](https://github.com/alwentiu/exposure_notification) Joint work with Zak Brighton-Knight.
 
 ## Bluetooth related vulnerabilities:
