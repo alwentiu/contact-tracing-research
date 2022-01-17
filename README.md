@@ -17,3 +17,4 @@
 
 - [A modified version of Bluetooth management tool (btmgmt)](https://github.com/alwentiu/btmgmt-alt)
 
+- [A simple python script to scan for COVIDSafe payload](https://github.com/alwentiu/covidsafescan)
